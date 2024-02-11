@@ -1,0 +1,21 @@
+{
+    "name": "maocae/mao",
+    "description": "HTML Templating Engine",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Maocae\\Mao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ritsu Hezayuki",
+            "email": "ritsu.hezayuki@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^8.2"
+    }
+}
